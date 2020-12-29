@@ -44,5 +44,13 @@
  
        char ch='a';
        int ascii=(int)ch;  //여기서 직접 char를 int로 변환하면 구해줌
- 
- - 끝
+
+
+### #11720 (숫자의 합)
+
+ - 포인트: BufferedReader에서 값 여러개 받기/ getBytes()함수
+       
+       br.readLine().getBytes()
+       이 함수를 호출해서 입력받은 문자열을 byte[]로 반환 받는다.
+       for loop돌려서 하나씩 결과값에 더해가며, 이때 byte값이므로 '0'의 byte값을 빼준다!
+
