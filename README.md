@@ -20,7 +20,7 @@
 |10818|최소, 최대|:heavy_check_mark:|
 |10869|사칙연산|:heavy_check_mark:|
 |10950|A+B - 3|:heavy_check_mark:|
-|10952|A+B - 4||EOF(End of File)|
+|10951|A+B - 4||EOF(End of File)|
 |10952|A+B - 5||
 |11654|아스키 코드||
 |11720|숫자의 합||
