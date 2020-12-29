@@ -2,7 +2,7 @@
 <b>solved: :heavy_check_mark:  failed: :x: </b>
 ## CLASS 1
 
-- essential (총18문제)
+- essential (총16문제)
 
 |#|제목|상태|키워드|
 |----|------------------|------------------|---|
