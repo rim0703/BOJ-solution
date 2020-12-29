@@ -1,4 +1,6 @@
 # BOJ-solution
+## started at: 2020/12/28
+
 <b>solved: :heavy_check_mark:  failed: :x: </b>
 ## CLASS 1
 
