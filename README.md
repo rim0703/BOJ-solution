@@ -25,3 +25,10 @@
 |11654|아스키 코드|:heavy_check_mark:|char를int로 변환하면 아스키값|
 |11720|숫자의 합|:heavy_check_mark:|br.readLine().getBytes()|
 
+## CLASS 2
+
+- essential (총20문제)
+
+|#|제목|상태|키워드|
+|----|------------------|------------------|---|
+|1085|직사각형에서 탈출|:heavy_check_mark:|
