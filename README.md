@@ -4,7 +4,7 @@
 <b>solved: :heavy_check_mark:  failed: :x: </b>
 ## CLASS 1
 
-- essential (총16문제)
+- essential (총16문제 완료:20201229)
 
 |#|제목|상태|키워드|
 |----|------------------|------------------|---|
@@ -20,8 +20,8 @@
 |10818|최소, 최대|:heavy_check_mark:|
 |10869|사칙연산|:heavy_check_mark:|
 |10950|A+B - 3|:heavy_check_mark:|
-|10951|A+B - 4||EOF(End of File)|
-|10952|A+B - 5||
-|11654|아스키 코드||
-|11720|숫자의 합||
+|10951|A+B - 4|:heavy_check_mark:|EOF(End of File)|
+|10952|A+B - 5|:heavy_check_mark:|
+|11654|아스키 코드|:heavy_check_mark:|char를int로 변환하면 아스키값|
+|11720|숫자의 합|:heavy_check_mark:|br.readLine().getBytes()|
 
