@@ -31,6 +31,10 @@
 
 |#|제목|상태|키워드|
 |----|------------------|------------------|---|
+|1018|체스판 다시 칠하기|:heavy_check_mark:|Brute force|
 |1085|직사각형에서 탈출|:heavy_check_mark:|
 |1181|단어 정렬|:heavy_check_mark:|Arrays.sort()에서 특정방법으로 정렬처리할 때 comparator
+|1259|팰린드롬수|:heavy_check_mark:|
 |1920|수 찾기|:heavy_check_mark:|Binary search
+|1978|소수 찾기|:heavy_check_mark:|
+|2164|카드2|:heavy_check_mark:|Queue
