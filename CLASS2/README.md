@@ -1,9 +1,14 @@
 ## 풀이노트
 
+### #1018 (체스판 다시 칠하기)
+ -  8*8의 체스보드
+ -  Brute force 모든 가능성을 계산하여 한개씩 확인
+ 
+
 ### #1181 (단어 정렬)
 
- - 포인트: Arrays.sort()를 사용하여 string을 알파벳순서로 정렬가능함.
- - 키워드: 특정 정렬방법을 따라야 할 때는 comparator를 사용하여 새로 정의할 수 있음.
+ -  Arrays.sort()를 사용하여 string을 알파벳순서로 정렬가능함.
+ -  특정 정렬방법을 따라야 할 때는 comparator를 사용하여 새로 정의할 수 있음.
  - 코드:
  
 		Arrays.sort(str, new Comparator<String>() {
@@ -19,3 +24,19 @@
 			}
 		}
 		});
+
+### #1920 (수 찾기)
+
+ -  이진탐색 Binary search
+ -  Arrays.binarySearch() 라는 함수를 제공함
+ 
+ ### #2164 (카드2)
+  -  직접 string을 split하여 체크할 경우 '제한시간 초과'
+  -  자료구조 <b>Queue</b>를 사용하여 대체함
+  - 코드:
+  
+  		//queue생성
+		Queue<Integer> queue=new LinkedList<>();
+		
+
+		
