@@ -38,3 +38,6 @@
 |1920|수 찾기|:heavy_check_mark:|Binary search
 |1978|소수 찾기|:heavy_check_mark:|
 |2164|카드2|:heavy_check_mark:|Queue
+|2609|최대공약수와 최소공배수|:heavy_check_mark:|GCD/LCM 알고리즘
+|2751|수 정렬하기2|:heavy_check_mark:|Collections.sort()
+|2798|블랙잭|:heavy_check_mark:|

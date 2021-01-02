@@ -30,7 +30,7 @@
  -  이진탐색 Binary search
  -  Arrays.binarySearch() 라는 함수를 제공함
  
- ### #2164 (카드2)
+### #2164 (카드2)
   -  직접 string을 split하여 체크할 경우 '제한시간 초과'
   -  자료구조 <b>Queue</b>를 사용하여 대체함
   - 코드:
@@ -38,5 +38,29 @@
   		//queue생성
 		Queue<Integer> queue=new LinkedList<>();
 		
+### #2609 (최대공약수와 최소공배수)
+  - GCD & LCM 계산방법(알고리즘)
+  - 코드: 
+		//최대공약수
+		public static int GCD(int a,int b){
+			if(a>b){
+				if(a%b==0) return b;
+				else return GCD(b,a%b);
+			}else{
+				if(b%a==0) return a;
+				else return GCD(a,b%a);
+			}
+		}
+		//최소공배수
+		public static int LCM(int a,int b){
+			return a*b/GCD(a,b);
+		}
 
-		
+### #2751 (수 정렬하기2)
+  - 문제1: Arrays.sort()를 사용하면 '시간초과'됨.
+  - 원인: 평균 시간복잡도: O(nlogn) 최악시간:O(n^2)
+  - 이 문제에서 Collections.sort()를 사용하면 시간통과.
+  - 문제2: list에 있는 element들을 한개씩 for loop로 출력할 시 '시간초과'
+  - 해결: StringBuilder를 사용하여 결과를 저장하고 sb를 출력함.
+  
+
