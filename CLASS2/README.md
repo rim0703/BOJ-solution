@@ -41,6 +41,7 @@
 ### #2609 (최대공약수와 최소공배수)
   - GCD & LCM 계산방법(알고리즘)
   - 코드: 
+  
 		//최대공약수
 		public static int GCD(int a,int b){
 			if(a>b){
