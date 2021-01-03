@@ -41,3 +41,13 @@
 |2609|최대공약수와 최소공배수|:heavy_check_mark:|GCD/LCM 알고리즘
 |2751|수 정렬하기2|:heavy_check_mark:|Collections.sort()
 |2798|블랙잭|:heavy_check_mark:|
+|9012|괄호|:heavy_check_mark:|Stack
+|10250|ACM호텔|:heavy_check_mark:|
+|10814|나이순 정렬|:heavy_check_mark:|특정range에서 정렬하기 Arrays.sort(str, new Comparator<String>(){//});
+|10816|숫자 카드2|:heavy_check_mark:|HashMap<key,value>
+|10828|스택|:heavy_check_mark:|Stack기초
+|10845|큐||Queue기초
+|10866|덱|
+|11050|이항 계수 1|
+|11650|좌표 정렬하기|
+|11866|요세푸스 문제 0|

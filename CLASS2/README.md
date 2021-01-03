@@ -57,10 +57,36 @@
 		}
 
 ### #2751 (수 정렬하기2)
-  - 문제1: Arrays.sort()를 사용하면 '시간초과'됨.
+  - <b>문제1:</b> Arrays.sort()를 사용하면 '시간초과'됨.
   - 원인: 평균 시간복잡도: O(nlogn) 최악시간:O(n^2)
   - 이 문제에서 Collections.sort()를 사용하면 시간통과.
-  - 문제2: list에 있는 element들을 한개씩 for loop로 출력할 시 '시간초과'
+  - <b>문제2:</b> list에 있는 element들을 한개씩 for loop로 출력할 시 '시간초과'
   - 해결: StringBuilder를 사용하여 결과를 저장하고 sb를 출력함.
   
 
+### #9012 (괄호)
+  - 일정페턴으로 서열식으로 입력을 받을때 <b>스택</b>을 생각해보자
+
+### #10250 (나이순 정렬)
+  - string으로 입력을 한 줄 씩 받아서 해당string에 포함된 숫자로 정렬하기
+  - Arrays.sort()
+	
+		Arrays.sort(yourArray, new Comparator<String>() {
+			@Override
+		    public int compare(String str1, String str2) {
+				//주어진 문제 testcase에서의 앞쪽 숫자가 몇자리 인지 판단 불가
+				index1=str1.indexof(" ");
+				index2=str2.indexof(" ");
+
+		        String substr1 = str1.substring(0,index1);
+		        String substr2 = str2.substring(0,index2);
+		
+		        return Integer.valueOf(substr2).compareTo(Integer.valueOf(substr1));
+		    }
+		});
+		
+		
+### #10816 (숫자 카드2)
+   - HashMap<key,value>를 사용하여 카운트 기록
+   - key값은 숫자, value는 카운트
+   - <pre><code>value++</code></pre> 와 <pre><code>++value</code></pre> 의 차이점
