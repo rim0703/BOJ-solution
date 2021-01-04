@@ -2,6 +2,18 @@
 ## started at: 2020/12/28
 
 <b>solved: :heavy_check_mark:  failed: :x: </b>
+
+
+## 진행중: CLASS 3
+
+- essential (총20문제)
+|#|제목|상태|키워드|
+|----|------------------|------------------|---|
+
+
+---
+
+
 ## CLASS 1
 
 - essential (총16문제 완료:20201229)
@@ -27,7 +39,7 @@
 
 ## CLASS 2
 
-- essential (총20문제)
+- essential (총20문제 완료:20210104)
 
 |#|제목|상태|키워드|
 |----|------------------|------------------|---|
@@ -46,8 +58,9 @@
 |10814|나이순 정렬|:heavy_check_mark:|특정range에서 정렬하기 Arrays.sort(str, new Comparator<String>(){//});
 |10816|숫자 카드2|:heavy_check_mark:|HashMap<key,value>
 |10828|스택|:heavy_check_mark:|Stack기초
-|10845|큐||Queue기초
-|10866|덱|
-|11050|이항 계수 1|
-|11650|좌표 정렬하기|
-|11866|요세푸스 문제 0|
+|10845|큐|:heavy_check_mark:|Queue기초
+|10866|덱|:heavy_check_mark:|Deque기초
+|11050|이항 계수 1|:heavy_check_mark:
+|11650|좌표 정렬하기|:heavy_check_mark:|Arrays.sort(str, new Comparator<String>(){//string 앞쪽 비교하고 뒷쪽 비교하기})
+|11866|요세푸스 문제 0|:heavy_check_mark:|Queue
+

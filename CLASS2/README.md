@@ -90,4 +90,7 @@
 ### #10816 (숫자 카드2)
    - HashMap<key,value>를 사용하여 카운트 기록
    - key값은 숫자, value는 카운트
-   - <pre><code>value++</code></pre> 와 <pre><code>++value</code></pre> 의 차이점
+   - <code>value++</code> 와 <code>++value</code> 의 차이점
+   
+### #10845(큐) #10866(덱)
+   - Queue는 Java에서 LinkedList로 구현됨. 선언할 때 주의!
