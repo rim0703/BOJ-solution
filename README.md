@@ -12,9 +12,12 @@
 |----|------------------|------------------|---|
 |1003|피보나치 함수|:heavy_check_mark:|
 |1012|유기농 배추|:heavy_check_mark:|DFS,BFS
-|1074|Z|:x:|재귀
-|1463|1로 만들기|:x:|DP
+|1074|Z|:heavy_check_mark:|재귀
+|1463|1로 만들기|:heavy_check_mark:|DP
 |1620|나는야 포켓몬 마스터 이다솜|:heavy_check_mark:|HashMap
+|1697|숨바꼭질|:heavy_check_mark:|queue,deque
+|1764|듣보잡|:heavy_check_mark:|
+
 ---
 
 
