@@ -17,6 +17,9 @@
 |1620|나는야 포켓몬 마스터 이다솜|:heavy_check_mark:|HashMap
 |1697|숨바꼭질|:heavy_check_mark:|queue,deque
 |1764|듣보잡|:heavy_check_mark:|
+|1927|최소 힙|:heavy_check_mark:|priority queue (min heap)
+|1931|회의실의 배정|:heavy_check_mark:|Greedy
+|2606|바이러스|:heavy_check_mark:|그래프,dfs,bfs
 
 ---
 
