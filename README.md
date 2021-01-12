@@ -20,6 +20,7 @@
 |1927|최소 힙|:heavy_check_mark:|priority queue (min heap)
 |1931|회의실의 배정|:heavy_check_mark:|Greedy
 |2606|바이러스|:heavy_check_mark:|그래프,dfs,bfs
+|2630|색종이 만들기|:heavy_check_mark:|분할,재귀
 
 ---
 
