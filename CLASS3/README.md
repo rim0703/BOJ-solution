@@ -55,4 +55,9 @@ BFS,queue를 활용한 최단경로 탐색, 하지만 이 문제에서는 deque�
 ### #7576(토마토)
   - BFS를 사용한 그래프 탐색
   - <code>dx=[1,-1,0,0] dy=[0,0,1,-1]</code> 좌표(상,하,좌,우)탐색 시 유용하게 사용됨. 맨 위에 선언하면 편함
-  - 다시 풀어보기... 
+  - 다시 풀어보기...
+  
+### #7662(이중 우선순위 큐) 
+  - 여러개의 같은 값이 존재할 수 있기 때문에 직접 풀이하면, 시간초과됨 (deque와dictionary로 풀이)
+  - python에서 Binary Search를 <code>import bisect</code>로 선언함
+  - <code>bisect.insort_left(queue,val)</code>정렬된 배열에서 왼쪽에 삽입
