@@ -23,7 +23,7 @@
 |2630|색종이 만들기|:heavy_check_mark:|분할,재귀
 |7576|토마토|:heavy_check_mark:|BFS
 |7662|이중 우선순위 큐|:heavy_check_mark:|BinarySearch
-|9095|1, 2, 3 더하기|
+|9095|1, 2, 3 더하기|:heavy_check_mark:|DP
 |11279|최대 힙|
 |11399|ATM|
 |11723|집합|	
