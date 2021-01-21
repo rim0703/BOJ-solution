@@ -24,7 +24,7 @@
 |7576|토마토|:heavy_check_mark:|BFS
 |7662|이중 우선순위 큐|:heavy_check_mark:|BinarySearch
 |9095|1, 2, 3 더하기|:heavy_check_mark:|DP
-|11279|최대 힙|
+|11279|최대 힙|:heavy_check_mark:|Python3 <code>import heapq</code>
 |11399|ATM|
 |11723|집합|	
 |11724|연결 요소의 개수|

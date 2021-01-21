@@ -32,9 +32,7 @@ BFS,queue를 활용한 최단경로 탐색, 하지만 이 문제에서는 deque�
   - 1개의 list로 전체를 받아서 그 중에서 앞,뒤 둘이 같으면 result에 추가함
   - 문제에서 사전순서로 정렬해야 하기 때문에 입력 받은 리스트를 정렬하고 비교하면, result리스트에는 자동으로 정렬된 순서로 추가하게 됨
   - list에 존재 여부를 판단하는 <code>in</code>: list에 대해 탐색할 때 <code>in</code>을 사용하면 for loop과 같이 전체를 돌리기때문에 시간상으로 비효율적임
-<<<<<<< Updated upstream
-=======
-  
+
 ### #1927(최소 힙)
   - 파이썬에서 선언: <code>from queue import PriorityQueue</code> <br>
   - min heap의 대표적인 자료구조 priority queue.<br>
@@ -64,3 +62,7 @@ BFS,queue를 활용한 최단경로 탐색, 하지만 이 문제에서는 deque�
   
 ### #9095(1,2,3 더하기)
   - DP점화식: <code>dp(n)=dp(n-3)+dp(n-2)+dp(n-1)</code>
+  
+### #11279(최대 힙)
+  - <code>import heapq</code>를 사용한 python3에서의 힙
+  - 연결된 문제:[#1927(최소 힙)](#1927(최소-힙))
