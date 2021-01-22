@@ -25,8 +25,8 @@
 |7662|이중 우선순위 큐|:heavy_check_mark:|BinarySearch
 |9095|1, 2, 3 더하기|:heavy_check_mark:|DP
 |11279|최대 힙|:heavy_check_mark:|Python3 <code>import heapq</code>
-|11399|ATM|
-|11723|집합|	
+|11399|ATM|:heavy_check_mark:|
+|11723|집합|:heavy_check_mark:|
 |11724|연결 요소의 개수|
 |11726|2×n 타일링|
 |18870|좌표 압축|
