@@ -6,7 +6,7 @@
 
 ## 진행중: CLASS 3
 
-- essential (총20문제)
+- essential (총20문제 완료:20210123)
 
 |#|제목|상태|키워드|
 |----|------------------|------------------|---|
@@ -27,9 +27,9 @@
 |11279|최대 힙|:heavy_check_mark:|Python3 <code>import heapq</code>
 |11399|ATM|:heavy_check_mark:|
 |11723|집합|:heavy_check_mark:|
-|11724|연결 요소의 개수|
-|11726|2×n 타일링|
-|18870|좌표 압축|
+|11724|연결 요소의 개수|:heavy_check_mark:|그래프
+|11726|2×n 타일링|:heavy_check_mark:|DP
+|18870|좌표 압축|:heavy_check_mark:|정렬
 
 ---
 
