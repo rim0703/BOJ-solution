@@ -91,7 +91,7 @@
 |15686|치킨 배달
 |16236|아기 상어
 |17219|비밀번호 찾기|:heavy_check_mark:|hashmap
-|17626|Four Squares
+|17626|Four Squares|:heavy_check_mark:|라그랑주의 네 제곱수 법칙
 ---
 
 ## CLASS 1
