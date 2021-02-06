@@ -67,7 +67,7 @@
 |1107|리모컨|:heavy_check_mark:|Brute force|
 |1260|DFS와 BFS|:heavy_check_mark:|
 |1389|케빈 베이컨의 6단계 법칙|:heavy_check_mark:|
-|1541|잃어버린 괄호
+|1541|잃어버린 괄호|:heavy_check_mark:|
 |1676|팩토리얼 0의 개수|:heavy_check_mark:|
 |1780|종이의 개수|
 |1992|쿼드트리|
