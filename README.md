@@ -69,7 +69,7 @@
 |1389|케빈 베이컨의 6단계 법칙|:heavy_check_mark:|
 |1541|잃어버린 괄호|:heavy_check_mark:|
 |1676|팩토리얼 0의 개수|:heavy_check_mark:|
-|1780|종이의 개수|
+|1780|종이의 개수|:heavy_check_mark:|재귀
 |1992|쿼드트리|:heavy_check_mark:|재귀
 |2178|미로 탐색|
 |2579|계단 오르기|
